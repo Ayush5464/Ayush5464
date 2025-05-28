@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Ayush5464
-- 👀 I’m interested in MEARN Stack developer
+- 👀 I’m a MEARN Stack developer
 - 🌱 I’m currently learning React and React native
 - 📫 How to reach me Dm me on instagram
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I am a New Developer make mistakes and Lern from them
 # 💫 About Me:
-🔭 I’m currently working on a collage project <br>🤝 I’m looking for help with good instructions and guidence<br>🌱 I’m currently learning React and React native<br> <br>
+🔭 I’m currently working on a ecommerce project <br>🤝 I’m looking for help with good instructions and guidence<br>🌱 I’m currently learning React and React native<br> <br>
 
 
 ## 🌐 Socials:
