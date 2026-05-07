@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush5464
+- 👋 Hi, I’m @Ayush Gupta
 - 👀 I’m a MEARN Stack developer
 - 🌱 I’m currently learning React and React native
 - 📫 How to reach me Dm me on instagram @ara_ara_ayush
